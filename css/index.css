@@ -21,3 +21,8 @@ body .container{
 .header{
     margin-left: -15px;
 }
+.back{
+    background-image:url("../images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
