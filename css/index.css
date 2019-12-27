@@ -15,14 +15,22 @@ body .container{
     width: 100%;
     height: 25%;
 }
-.card{
+.row .card{
     border: solid black 1px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 .header{
     margin-left: -15px;
 }
 .back{
     background-image:url("../images/back.jpg");
+    /* background-image:url("../images/king1.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
+    
+}
+.card img{
+    width: 100%;
+    height: 100%;
 }
